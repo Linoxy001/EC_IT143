@@ -1,1 +1,0 @@
--- Question: How many people are in Community1?
