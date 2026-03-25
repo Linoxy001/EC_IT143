@@ -1,0 +1,2 @@
+-- I will count all rows in Community1
+-- I will use COUNT(*) to get the answer
