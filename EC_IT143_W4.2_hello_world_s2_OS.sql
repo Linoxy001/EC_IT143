@@ -1,2 +1,0 @@
--- I will return a simple text value
--- I will use SELECT to display Hello World
